@@ -1,0 +1,11 @@
+1) Shortest path routing: based only on cost
+of each edge.
+
+Example: Dijkstra's
+
+2)Distance vector:
+Each router shares it's knowledge about entire network with its neighbours
+
+Example: Belman-Ford
+
+3)Link state routing:
